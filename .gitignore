@@ -1,0 +1,18 @@
+# Holds plaintext credentials (GH_TOKEN, remote-access passwords, ...) -
+# never committed. Copy .env-sample to .env locally instead.
+.env
+!.env-sample
+!.env.example
+.claude/
+.cursor/
+.ai/
+.vs/
+.vscode/
+.idea/
+.cursorrules
+AGENTS.md
+CLAUDE.md
+*.log
+logs/
+Thumbs.db
+.DS_Store
